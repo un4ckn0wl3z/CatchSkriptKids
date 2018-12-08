@@ -1,0 +1,6 @@
+[**] (http_inspect) UNESCAPED SPACE IN HTTP URI [**]
+12/07-13:28:37.643725 184.82.108.85:32776 -> 45.76.187.53:80
+TCP TTL:247 TOS:0x0 ID:11130 IpLen:20 DgmLen:1492 DF
+***A**** Seq: 0x75DABBE1  Ack: 0x37F2CD63  Win: 0xFF3C  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+

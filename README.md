@@ -1,2 +1,2 @@
 # CatchSkriptKids
-honeypot, toolkit and script for create SkriptKiddies
+honeypot, toolkit and script for fuckup SkriptKiddies
